@@ -1,0 +1,44 @@
+.body{
+    margin: 0;
+}
+
+.adminNavbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    color: antiquewhite;
+    padding: 20px 0px;
+    position: sticky ;
+    
+}
+.navbarlogo h1{
+    margin: 0;
+}
+.navbarlogo{
+    margin-left: 50px;
+}
+
+.navbarlinks a{
+     text-decoration: none;
+     color: antiquewhite;
+     font-size: 18px;
+     padding: 15px;
+}
+.navbarlogout a{
+    text-decoration: none;
+    color: antiquewhite;
+    font-size: 18px;
+    margin-right: 50px;
+    border: 2px solid antiquewhite;
+    padding: 8px 20px;
+    border-radius: 10px;
+}
+.navbarlogout a:hover{
+    color: crimson;
+    border: 2px solid crimson;
+}
+.navbarlinks a:hover{
+    border-bottom: 2px solid goldenrod;
+    color: goldenrod;
+}

@@ -1,0 +1,44 @@
+.Body{
+    margin: 0px;
+
+
+}
+.addUser{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    background-color: darkgray;
+    background-size: contain;
+    height: 90vh;
+
+}
+.addUser h1{
+    text-align: center;
+    margin: 0;
+    margin: 20px ;
+}
+.adduserimp{
+    text-align: center;
+    align-items: center;
+    height: 350px ;
+    width: 350px;
+    background-color: gray;
+    border-radius: 25px;
+    margin-bottom: 200px;
+}
+.adduserimp input{
+    height: 25px;
+    width: 250px;
+    margin: 9px;
+}
+.adduserimp button{
+    padding: 10px 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+    color: black;
+    background-color: chocolate;
+    border: none;
+}
+.username{
+    margin-top: 50px;
+}

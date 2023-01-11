@@ -7,7 +7,7 @@ const UserLogin = () => {
 
     let navigate = useNavigate()
     let login = () => {
-        navigate('/user/')
+        navigate('/User/')
     }
 
     return (

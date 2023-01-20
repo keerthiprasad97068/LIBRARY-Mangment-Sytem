@@ -1,0 +1,51 @@
+body{
+    margin: 0px;
+}
+.userlist{
+    background-color:rgb(189, 220, 245);
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    
+    
+    
+}
+.userImp h1{
+    margin: 0;
+
+}
+#userheading{
+    margin: 0;
+    padding: 25px;
+    text-align: center;
+    
+    
+}
+.userImp{
+    display: inline-table;
+    justify-content: center;
+    width: 300px;
+    height: 250px;
+    background-color: aliceblue;
+    margin: 20px;
+    box-shadow: 0px 0px 15px blue;
+    padding: 30px;
+    margin: 30px ;
+    margin-left: 95px;
+
+   
+}
+.deletebtn2 button{
+    background-color: transparent;
+    color: red;
+    border: 3px solid red;
+    margin-left: 5px;
+    text-align: center;
+    padding: 10px 25px;
+    font-weight: bold;
+}
+.deletebtn2 button:hover{
+    background-color: red;
+    color: rgb(0, 0, 0);
+}
+    

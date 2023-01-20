@@ -6,7 +6,8 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: black;
+    background-color:rgb(66, 153, 229);
+    
     color: antiquewhite;
     padding: 20px 0px;
     position: sticky ;
@@ -14,9 +15,10 @@
 }
 .navbarlogo h1{
     margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .navbarlogo{
-    margin-left: 50px;
+    margin-left: 10px;
 }
 
 .navbarlinks a{

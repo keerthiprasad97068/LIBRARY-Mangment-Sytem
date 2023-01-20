@@ -1,5 +1,6 @@
 import { useState ,useEffect} from "react";
 import { useParams } from "react-router-dom";
+import '../Styles/readMore.css'
 
 const ReadBook = () => {
     let[book,setbook]=useState([])
@@ -18,9 +19,9 @@ const ReadBook = () => {
         <div className="readBook">
             <h1>Read Book</h1>
             <div className="readbookinf">
-                <h2>{book.title}</h2>
-                <p> <span style={{ fontWeight:'bold' }} >shortDescription</span> <br /> {book.shortDescription}</p>
-                <p> {book.longDescription}</p>
+                <h2>Title:{book.title}</h2>
+                <p> <span style={{ fontWeight:'bold' }} >Short Description:</span> <br /> {book.shortDescription}</p>
+                <p><span style={{ fontWeight:'bold' }} >Long Description:</span> <br />  {book.longDescription}</p>
                
             </div>
         

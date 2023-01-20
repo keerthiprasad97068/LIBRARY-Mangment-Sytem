@@ -7,8 +7,8 @@
     display: grid;
     align-items: center;
     justify-content: center;
-    background-color: darkgray;
-    background-size: contain;
+    background-image: url('../../public/Images/Adduser.jpg');
+    background-size: cover;
     height: 90vh;
 
 }
@@ -16,28 +16,35 @@
     text-align: center;
     margin: 0;
     margin: 20px ;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: aliceblue;
 }
 .adduserimp{
     text-align: center;
     align-items: center;
     height: 350px ;
     width: 350px;
-    background-color: gray;
+    background-color: rgba(0,0, 0, 0.5);
     border-radius: 25px;
     margin-bottom: 200px;
 }
 .adduserimp input{
     height: 25px;
     width: 250px;
-    margin: 9px;
+    margin: 12px;
 }
 .adduserimp button{
-    padding: 10px 20px;
+    padding: 10px 25px;
     margin-top: 10px;
-    border-radius: 10px;
-    color: black;
-    background-color: chocolate;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 139, 0.86);
+    color: antiquewhite;
     border: none;
+    margin-bottom: 80px;
+}
+.adduserimp button:hover{
+    background-color: blue;
+
 }
 .username{
     margin-top: 50px;

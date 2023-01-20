@@ -1,6 +1,58 @@
-.Body{
+Body{
     margin: 0;
 }
 .addbooks{
-    align-items: center;
+   align-items: center;
+   text-align: center;
+}
+.addbooks h1{
+    margin: 0;
+    color: aliceblue;
+    padding: 8px;
+    background-color: rgb(18, 17, 17,0.7);
+}
+.AddForm input{
+    height: 30px;
+    width: 300px;
+    margin: 8px;
+    font-weight: bolder;
+}
+.shortdescription textarea{
+    width: 300px;
+    height: 100px;
+    margin: 8px;
+    font-weight: bolder;
+}
+.longdescription textarea{
+    width: 300px;
+    height: 100px;
+    margin: 8px;
+    font-weight: bolder;
+}
+.addbooks{
+    background: url('../../public/Images/addbooks.webp');
+    background-size: cover;
+    height: 668px;
+
+}
+.AddForm{
+    background-color: rgb(12, 11, 11,.6);
+    width: 400px;
+    margin: 10px auto;
+    height: auto;
+}
+.bookbtn{
+    padding: 10px 25px;
+    margin: 10px;
+    background-color: darkblue;
+    color: antiquewhite;
+    margin-bottom: 20px;
+}
+.bookbtn:hover{
+    background-color: dodgerblue;
+    color: black;
+}
+.booktitle{
+    margin-top: 15px;
+    padding-top: 8px;
 }

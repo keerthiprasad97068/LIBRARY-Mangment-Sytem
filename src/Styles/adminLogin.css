@@ -16,7 +16,7 @@
 .loginForm {
     height: 400px;
     width: 400px;
-    background-color: bisque;
+    background-color: cornsilk;
     text-align: center;
     margin-top: 190px;
     border-radius: 25px;
@@ -25,12 +25,14 @@
 .loginForm h1 {
     margin: 0;
     text-align: center;
-    margin: 10px 0px;
+    
     margin-top: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 20px;
 }
 
 .email {
-    margin: 20px 0px;
+    margin: 30px 0px;
 }
 
 .email input {
@@ -38,13 +40,17 @@
     width: 270px;
     outline: none;
     border: none;
-    border-bottom: 3px solid rgb(162, 230, 61);
+    border-bottom: 3px solid darkorange;
     background-color: transparent;
 }
 
 .email {
     font-weight: normal;
     font-size: 20px;
+    
+}
+.email label{
+    margin-right: 220px;
 }
 
 
@@ -54,28 +60,35 @@
      font-size: 20px;
 
 }
+.password label{
+    margin-right: 184px;
+}
 
 .password input {
     height: 25px;
     width: 270px;
     outline: none;
     border: none;
-    border-bottom: 3px solid rgb(162, 230, 61);
+    border-bottom: 3px solid darkorange;
     background-color: transparent;
 
 }
 
 .form_input button {
-    margin: 30px 0px;
+    margin-top: 35px;
     padding: 10px 80px;
     border-radius: 12px;
     border: none;
-    background-color: rgb(50, 215, 50);
-    color: antiquewhite;
- 
-
+    background-color: darkorange;
+    color: darkblue;
     font-size: 20px;
 }
+
+.form_input button:hover{
+    background-color: rgb(4, 133, 4);
+    color:lightgoldenrodyellow ;
+}
+
 .userlogin{
     display: flex;
     justify-content: center;

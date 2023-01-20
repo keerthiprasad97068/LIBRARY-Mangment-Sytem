@@ -40,25 +40,6 @@
       ]
     },
     {
-      "id": 4,
-      "title": "Flex 3 in Action",
-      "isbn": "1933988746",
-      "pageCount": 576,
-      "publishedDate": {
-        "$date": "2009-02-02T00:00:00.000-0800"
-      },
-      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ahmed.jpg",
-      "longDescription": "New web applications require engaging user-friendly interfaces   and the cooler, the better. With Flex 3, web developers at any skill level can create high-quality, effective, and interactive Rich Internet Applications (RIAs) quickly and easily. Flex removes the complexity barrier from RIA development by offering sophisticated tools and a straightforward programming language so you can focus on what you want to do instead of how to do it. And now that the major components of Flex are free and open-source, the cost barrier is gone, as well!    Flex 3 in Action is an easy-to-follow, hands-on Flex tutorial. Chock-full of examples, this book goes beyond feature coverage and helps you put Flex to work in real day-to-day tasks. You'll quickly master the Flex API and learn to apply the techniques that make your Flex applications stand out from the crowd.    Interesting themes, styles, and skins  It's in there.  Working with databases  You got it.  Interactive forms and validation  You bet.  Charting techniques to help you visualize data  Bam!  The expert authors of Flex 3 in Action have one goal   to help you get down to business with Flex 3. Fast.    Many Flex books are overwhelming to new users   focusing on the complexities of the language and the super-specialized subjects in the Flex eco-system; Flex 3 in Action filters out the noise and dives into the core topics you need every day. Using numerous easy-to-understand examples, Flex 3 in Action gives you a strong foundation that you can build on as the complexity of your projects increases.",
-      "status": "PUBLISH",
-      "authors": [
-        "Tariq Ahmed with Jon Hirschi",
-        "Faisal Abid"
-      ],
-      "categories": [
-        "Internet"
-      ]
-    },
-    {
       "id": 5,
       "title": "Flex 4 in Action",
       "isbn": "1935182420",
@@ -116,26 +97,6 @@
       ],
       "categories": [
         "Web Development"
-      ]
-    },
-    {
-      "id": 8,
-      "title": "Flex on Java",
-      "isbn": "1933988797",
-      "pageCount": 265,
-      "publishedDate": {
-        "$date": "2010-10-15T00:00:00.000-0700"
-      },
-      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/allmon.jpg",
-      "shortDescription": "   A beautifully written book that is a must have for every Java Developer.       Ashish Kulkarni, Technical Director, E-Business Software Solutions Ltd.",
-      "longDescription": "In the demo, a hip designer, a sharply-dressed marketer, and a smiling, relaxed developer sip lattes and calmly discuss how Flex is going to make customers happy and shorten the workday   all while boosting the bottom line. The software systems they're using have been carefully selected and built from the ground up to work together seamlessly. There are no legacy systems, data, or competing business concerns to manage.    Cut to reality.    You're a Java developer. The marketing guy tells you that \"corporate\" wants a Flex-based site and you have to deliver it on top of what you already have. Your budget  Don't even ask. \"Make it look like the Discovery channel or something.\"    Flex on Java assumes you live in the real world   not the demo. This unique book shows you how to refactor an existing web application using the server-side you already know. You'll learn to use Flex 3 in concert with Spring, EJB 3, POJOs, JMS, and other standard technologies. Wherever possible, the examples use free or open source software.    The authors start with a typical Java web app and show you how to add a rich Flex interface. You also learn how to integrate Flex into your server-side Java via the BlazeDS framework, Adobe's open-source remoting and web messaging technology for Flex.    The book shows you how to deploy to not only the web but also to the desktop using the Adobe Integrated Runtime (AIR). You will learn how to integrate Flex into your existing applications in order to build a next generation application that will delight users.    Flex on Java is approachable for anyone beginning Java and Flex development.    ",
-      "status": "PUBLISH",
-      "authors": [
-        "Bernerd Allmon",
-        "Jeremy Anderson"
-      ],
-      "categories": [
-        "Internet"
       ]
     },
     {
@@ -309,26 +270,6 @@
       ],
       "categories": [
         "PowerBuilder"
-      ]
-    },
-    {
-      "id": 19,
-      "title": "Jaguar Development with PowerBuilder 7",
-      "isbn": "1884777864",
-      "pageCount": 550,
-      "publishedDate": {
-        "$date": "1999-08-01T00:00:00.000-0700"
-      },
-      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/barlotta2.jpg",
-      "shortDescription": "Jaguar Development with PowerBuilder 7 is the definitive guide to distributed application development with PowerBuilder. It is the only book dedicated to preparing PowerBuilder developers for Jaguar applications and has been approved by Sybase engineers and product specialists who build the tools described in the book.",
-      "longDescription": "Jaguar Development with PowerBuilder 7 is the definitive guide to distributed application development with PowerBuilder. It is the only book dedicated to preparing PowerBuilder developers for Jaguar applications and has been approved by Sybase engineers and product specialists who build the tools described in the book.    Jaguar Development with PowerBuilder 7 focuses on getting you up to speed on Jaguar and PowerBuilder, and it is packed with code samples to guide you every step of the way. It covers each step involved in application development, from setting up the development environment to deploying a production application.    Even a PowerBuilder developer with no experience in distributed technologies or Jaguar CTS will learn what it takes to build an application. Jaguar Development with PowerBuilder 7 covers:    Developing Component-centric Applications  Building Jaguar CTS Components/Clients  CORBA  Adaptive SQL Anywhere  Adaptive Server Enterprise  and lots more!",
-      "status": "PUBLISH",
-      "authors": [
-        "Michael Barlotta"
-      ],
-      "categories": [
-        "PowerBuilder",
-        "Client-Server"
       ]
     },
     {
@@ -562,25 +503,6 @@
       "categories": [
         "Networking",
         "Theory"
-      ]
-    },
-    {
-      "id": 32,
-      "title": "Ruby for Rails",
-      "isbn": "1932394699",
-      "pageCount": 532,
-      "publishedDate": {
-        "$date": "2006-05-01T00:00:00.000-0700"
-      },
-      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/black.jpg",
-      "shortDescription": "The word is out: with Ruby on Rails you can build powerful Web applications easily and quickly! And just like the Rails framework itself, Rails applications are Ruby programs. That means you can   t tap into the full power of Rails unless you master the Ruby language.",
-      "longDescription": "Ruby for Rails helps Rails developers achieve Ruby mastery. Each chapter deepens your Ruby knowledge and shows you how it connects to Rails. You   ll gain confidence working with objects and classes and learn how to leverage Ruby   s elegant, expressive syntax for Rails application power. And you'll become a better Rails developer through a deep understanding of the design of Rails itself and how to take advantage of it.    Newcomers to Ruby will find a Rails-oriented Ruby introduction that   s easy to read and that includes dynamic programming techniques, an exploration of Ruby objects, classes, and data structures, and many neat examples of Ruby and Rails code in action.    Ruby for Rails: the Ruby guide for Rails developers!",
-      "status": "PUBLISH",
-      "authors": [
-        "David A. Black"
-      ],
-      "categories": [
-        "Web Development"
       ]
     },
     {
@@ -7066,16 +6988,6 @@
       "categories": []
     },
     {
-      "title": "Bhargav",
-      "authors": "nihal",
-      "categories": "java",
-      "pageCount": "1277",
-      "shortDescription": "sdfg",
-      "longDescription": "sdfgh",
-      "thumbnailUrl": "C:\\fakepath\\Screenshot_20230106_121631.png",
-      "id": 797
-    },
-    {
       "title": "Harry Potter and the Philosopher's Stone",
       "authors": "J. K. Rowling",
       "categories": "Novel, Children's literature, Fantasy Fiction, High fantasy",
@@ -7089,17 +7001,24 @@
   "users": [
     {
       "Name": "Nihal",
-      "age": 22,
-      "email": "abc",
-      "phonenumber": "123456",
+      "age": "23",
+      "email": "nihal1@gmail.com",
+      "phonenumber": "9987456123",
       "id": 1
     },
     {
       "Name": "Bhargav",
-      "age": 22,
-      "email": "dkdgf",
-      "phonenumber": "147896325",
+      "age": "22",
+      "email": "bhargav14@gmail.com",
+      "phonenumber": "7795462815",
       "id": 2
+    },
+    {
+      "Name": "Sachin",
+      "age": "23",
+      "email": "sachin@gmail.com",
+      "phonenumber": "8845632145",
+      "id": 4
     }
   ]
 }

@@ -1,0 +1,21 @@
+Body{
+    margin: 0;
+
+}
+.readBook{
+    background-color:rgb(189, 220, 245);
+    padding: 0px 80px;
+    background-size: cover;
+    height: 90vh;
+}
+.readBook h1{
+    margin: 0;
+    padding: 30px;
+    text-align: center;
+    background-color: rgb(138, 192, 239);
+
+    
+}
+.readbookinf{
+    margin-bottom: 100px;
+}

@@ -1,0 +1,16 @@
+.error404{
+  text-align: center;
+}
+.error404 button{
+    padding: 15px 30px;
+    background-color: rgb(26, 26, 224);
+    color: aliceblue;
+    font-size: medium;
+    border-radius: 25px;
+    border: none;
+    box-shadow: 0px 0px 10px black;
+    margin-top: 10px;
+}
+.error404 button:hover{
+    background-color: navy;
+}
